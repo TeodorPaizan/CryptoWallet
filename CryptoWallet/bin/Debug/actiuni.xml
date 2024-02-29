@@ -1,0 +1,11 @@
+<Actiuni>
+  <Actiune Denumire="Apple " Pret="150.8" Cantitate="12" />
+  <Actiune Denumire="BNB" Pret="231" Cantitate="4" />
+  <Actiune Denumire="BTC" Pret="30000" Cantitate="0.8" />
+  <Actiune Denumire="DogeCoin" Pret="0.3" Cantitate="200" />
+  <Actiune Denumire="EGLD" Pret="20" Cantitate="45" />
+  <Actiune Denumire="ETH" Pret="1500" Cantitate="2" />
+  <Actiune Denumire="Google" Pret="1501.73" Cantitate="2.1" />
+  <Actiune Denumire="LINK" Pret="5.53" Cantitate="30" />
+  <Actiune Denumire="Tesla" Pret="750.5" Cantitate="20" />
+</Actiuni>

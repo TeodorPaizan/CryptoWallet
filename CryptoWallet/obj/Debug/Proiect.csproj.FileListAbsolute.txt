@@ -1,0 +1,16 @@
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\bin\Debug\Proiect.exe.config
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\bin\Debug\Proiect.exe
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\bin\Debug\Proiect.pdb
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.csproj.SuggestedBindingRedirects.cache
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.exe
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.pdb
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.LogIn.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.Meniu.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.AdaugareActiune.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.VanzareActiune.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.AfisareGrafic.resources
+F:\Facultate\An II\Semestrul II\PAW\Proiect\Proiect\obj\Debug\Proiect.ContNou.resources
